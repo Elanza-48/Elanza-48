@@ -1,12 +1,12 @@
 <p align="center">
-  <img style="width:5rem; height:5rem" src="./resources/img/code.gif"/>
+  <img style="width:8rem; height:auto" src="./resources/img/myAvatar.png"/>
 </p>
 
 <h1 align="center">Hi, I'm Rajarshi Kundu<img width="30px" src="./resources/img/waving.gif"></h1>
 <h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:18rem; height:12rem" src="./resources/img/Space45-Night.gif"/>
+- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="./resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
@@ -21,6 +21,9 @@
 
 ---
 
+<p align="center">
+  <img style="width:5rem; height:5rem" src="./resources/img/code.gif"/>
+</p>
 <h2 align="center"><u>Knowledge Base</u></h2>
 
 <h3 align="center">Languages</h3>
@@ -171,7 +174,7 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://gitlab.com/Elanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
   </a>
     <a href="https://www.docker.com/" target="_blank">
