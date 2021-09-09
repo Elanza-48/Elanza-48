@@ -21,10 +21,12 @@
 
 ---
 
+
+<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+
 <p align="center">
-  <img style="width:5rem; height:5rem" src="./resources/img/code.gif"/>
+  <img style="width:26rem; height:auto" src="./resources/img/coders-prog.gif"/>
 </p>
-<h2 align="center"><u>Knowledge Base</u></h2>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -77,8 +79,8 @@
   <a href="https://redux.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
   </a> 
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" /> 
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
   </a>
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
@@ -215,35 +217,35 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://dev.to/elanza48" target="blank">
+    <a  href="https://dev.to/elanza48" target="_blank">
       <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="elanza48"/>
     </a>
-    <a href="https://medium.com/@elanza48" target="blank">
-      <img src="https://img.shields.io/badge/meduim-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="elanza48"/>
+    <a href="https://medium.com/@elanza48" target="_blank">
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="elanza48"/>
     </a>
-    <a href="https://codepen.io/elanza48" target="blank">
+    <a href="https://codepen.io/elanza48" target="_blank">
       <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="elanza48"/>
     </a>
   </div>
   <div>
-    <a  href="https://linkedin.com/in/elanza48" target="blank">
+    <a  href="https://linkedin.com/in/elanza48" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="elanza48"/>
     </a>
-    <a href="https://twitter.com/elanza48" target="blank">
+    <a href="https://twitter.com/elanza48" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="elanza48"/>
     </a>
-    <a href="https://dribbble.com/elanza48" target="blank">
+    <a href="https://dribbble.com/elanza48" target="_blank">
       <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="elanza48"/>
     </a>
   </div>
   <div>
-    <a  href="https://www.codechef.com/users/elanza48" target="blank">
+    <a  href="https://www.codechef.com/users/elanza48" target="_blank">
       <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="elanza48"/>
     </a>
-    <a href="https://www.hackerrank.com/elanza48" target="blank">
+    <a href="https://www.hackerrank.com/elanza48" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="elanza48"/>
     </a>
-    <a href="https://www.leetcode.com/elanza48" target="blank">
+    <a href="https://www.leetcode.com/elanza48" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="elanza48"/>
     </a>
   </div>
@@ -252,10 +254,10 @@
 <h3 align="center">Reach me</h3>
 
 <p align="center">
-  <a  href="https://t.me/elanza48" target="blank">
+  <a  href="https://t.me/elanza48" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="elanza48"/>
   </a>
-  <a href="mailto:elanza48@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="blank">
+  <a href="mailto:elanza48@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="elanza48"/>
   </a>
 </p>
