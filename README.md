@@ -1,43 +1,37 @@
 <p align="center">
-  <img style="border-radius: 50%" height="26%" width="38%" src="./resources/img/code-rocket.gif"/>
+  <img style="width:5rem; height:5rem" src="./resources/img/code.gif"/>
 </p>
 
-<!-- <p align="center">
-  <img height="8%" width="8%" src="./resources/img/code.gif"/>
-</p> -->
-<h1 align="center">Hi <img width="4%" height="8%" src="./resources/img/waving.gif">, I'm Rajarshi Kundu</h1>
+<h1 align="center">Hi, I'm Rajarshi Kundu<img width="30px" src="./resources/img/waving.gif"></h1>
 <h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
 
-----
 
+- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:18rem; height:12rem" src="./resources/img/Space45-Night.gif"/>
 
-- 🌱 I’m currently learning **Spring Framework, Distributed Systems**
-
-- 👯 I’m looking to collaborate on **Spring Framework projects**
+- 👯 I’m looking to collaborate on **Spring Framework**
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 All of my projects are available at [github.com/Elanza-48](github.com/Elanza-48)
+- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
 
-- 💬 Ask me about **Api Designs, ORM.**
-
-- 📫 How to reach me **elanza48@outlook.com**
+- 💬 Ask me about **System Designs and Philosophy 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
+
 ---
 
-<h1 align="center"><u>Knowledge Base</u></h1>
+<h2 align="center"><u>Knowledge Base</u></h2>
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
+  </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
@@ -72,10 +66,7 @@
   </a>
   <a href="https://www.gatsbyjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
-  </a> 
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
+  </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
@@ -98,6 +89,9 @@
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
+      alt="express" />
   <a href="https://hibernate.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
   </a>
@@ -214,9 +208,9 @@
 
 ----
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 
-<div align="center">
+<div style="margin-top:10px" align="center">
   <div>
     <a  href="https://dev.to/elanza48" target="blank">
       <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="elanza48"/>
@@ -252,19 +246,7 @@
   </div>
 </div>
 
-----
-
-<div align="center">
-<h1 align="center" style="margin: 5px 10px; font-style:'futura';">Github stats:</h1> 
-
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=elanza-48&show_icons=true&theme=radical&locale=en&layout=default&include_all_commits=true)](https://github.com/Elanza-48)
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=dark)](https://github.com/Elanza-48)
-</div>
-
-----
-
-<h3 align="center">Reach me:</h3>
+<h3 align="center">Reach me</h3>
 
 <p align="center">
   <a  href="https://t.me/elanza48" target="blank">
@@ -275,7 +257,18 @@
   </a>
 </p>
 
+----
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
+
+----
+
 <p align="center">
-  <img  src="resources/img/github-contribution-grid-snake.gif"
+  <img  src="resources/img/github-contribution-grid-snake.svg"
     alt="elanza-48" />
 </p>
