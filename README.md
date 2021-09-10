@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Elanza-48), [Gitlab](https://gitlab.com/Elanza-48)
 
 - 💬 Ask me about **System Designs and Philosophy 😆**
 
