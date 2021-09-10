@@ -1,10 +1,11 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="./resources/img/myAvatar.png"/>
+  <img style="width:15rem; height:auto" src="./resources/img/materialHacker.png"/>
 </p>
 
 <h1 align="center">Hi, I'm Rajarshi Kundu<img width="30px" src="./resources/img/waving.gif"></h1>
 <h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
 
+<samp align="left">
 
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="./resources/img/geek.gif"/>
 
@@ -17,12 +18,12 @@
 - 💬 Ask me about **System Designs and Philosophy 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
-
+</samp>
 
 ---
 
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<h2 align="center"><b>Knowledge Base</b></h2>
 
 <p align="center">
   <img style="width:26rem; height:auto" src="./resources/img/coders-prog.gif"/>
@@ -94,14 +95,11 @@
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
   <a href="https://hibernate.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
   </a>
-    <a href="https://spring.io/" target="_blank"> 
-      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
+  <a href="https://spring.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
   </a>
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
@@ -115,7 +113,11 @@
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
       alt="nginx"/> 
-  </a> 
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white"
+      alt="RabbitMQ" />
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
@@ -222,9 +224,6 @@
     </a>
     <a href="https://medium.com/@elanza48" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="elanza48"/>
-    </a>
-    <a href="https://codepen.io/elanza48" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="elanza48"/>
     </a>
   </div>
   <div>
