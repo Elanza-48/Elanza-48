@@ -7,7 +7,7 @@
 <div>
   <samp>
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" width="250rem" height="auto" src="./resources/img/geek.gif"/>
+- 🌱 I’m currently learning **To be Extroverted** <img align="right" width="260rem" height="auto" src="./resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
@@ -214,7 +214,7 @@
     </a>
   </div>
 </div>
-<hr>
+</details>
 
 <div align="center">
   <h3>Connect with me</h3>
@@ -258,8 +258,6 @@
     </a>
   </div>
 </div>
-
-</details>
 <hr>
 
 <div align="center">
