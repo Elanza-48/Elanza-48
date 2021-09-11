@@ -1,13 +1,11 @@
 <div align="center">
   <img width="250rem"; height="auto" src="./resources/img/materialHacker.png"/>
   <h1>Hi, I'm Rajarshi Kundu<img width="30px" src="./resources/img/waving.gif"></h1>
+  <h3>A passionate backend developer and a student from India.</h3>
 </div>
 
-
-<h3 align="center">A passionate backend developer and a student from India.</h3>
-
 <div>
-<samp align="left">
+  <samp>
 
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" width="250rem" height="auto" src="./resources/img/geek.gif"/>
 
@@ -20,16 +18,18 @@
 - 💬 Ask me about **System Designs and Philosophy 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
-</samp>
+  </samp>
 </div>
-<hr>
 
-<div align="center">
-  <h1>Knowledge Base</h1>
-  <img width="500rem" height="auto" src="./resources/img/coders-prog.gif"/>
-</div>
+<details align="center">
+<summary>🔬 More about me</summary>
 
 <div>
+  <div align="center">
+    <h1>Knowledge Base</h1>
+    <img width="500rem" height="auto" src="./resources/img/coders-prog.gif"/>
+  </div>
+
   <div align="center">
     <h3>Languages</h3>
     <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -216,7 +216,7 @@
 </div>
 <hr>
 
-<div style="margin-top:10px" align="center">
+<div align="center">
   <h3>Connect with me</h3>
   <div>
     <a  href="https://dev.to/elanza48" target="_blank">
@@ -248,24 +248,25 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="elanza48"/>
     </a>
   </div>
+  <div>
+    <h3>Reach me</h3>
+    <a  href="https://t.me/elanza48" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="elanza48"/>
+    </a>
+    <a href="mailto:elanza48@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+      <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="elanza48"/>
+    </a>
+  </div>
 </div>
 
-<div align="center">
-  <h3>Reach me</h3>
-  <a  href="https://t.me/elanza48" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="elanza48"/>
-  </a>
-  <a href="mailto:elanza48@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="elanza48"/>
-  </a>
-</div>
+</details>
 <hr>
 
 <div align="center">
-  <h2 align="center" style="margin: 5px 10px;">Github stats</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+  <h2>Github stats</h2> 
+  <img src="https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="https://github.com/Elanza-48" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight" alt="https://github.com/Elanza-48" />
 </div>
 <hr>
 
