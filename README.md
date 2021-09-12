@@ -1,15 +1,16 @@
 <div align="center">
-  <img width="250rem"; height="auto" src="./resources/img/materialHacker.png"/>
-  <h1>Hi, I'm Rajarshi Kundu<img width="30px" src="./resources/img/waving.gif"></h1>
+  <img width="200rem"; height="auto" src="./resources/img/materialHacker.png"/>
+  <h1>Hi<img width="30rem" src="./resources/img/waving.gif">, I'm Rajarshi Kundu</h1>
   <h3>A passionate backend developer and a student from India.</h3>
 </div>
 
 <div>
   <samp>
+  <img align="right" width="270rem" height="auto" src="./resources/img/geek.gif"/>
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" width="260rem" height="auto" src="./resources/img/geek.gif"/>
+- 🌱 I’m currently learning **To be Extroverted**
 
-- 👯 I’m looking to collaborate on **Spring Framework**
+- 👯 I’m looking to collaborate on <strong>Spring Framework</strong>
 
 - 🤝 I’m looking for help with **Backend Design**
 
