@@ -1,13 +1,17 @@
 <div align="center">
-  <img width="200rem"; height="auto" src="./resources/img/materialHacker.png"/>
-  <h1>Hi<img width="30rem" src="./resources/img/waving.gif">, I'm Rajarshi Kundu</h1>
-  <h3>A passionate backend developer and a student from India.</h3>
+  <img width="200" height="auto" src="./resources/img/materialHacker.png"/>
+  <h1>Hi<img width="30" src="./resources/img/waving.gif">, I'm Rajarshi Kundu</h1>
+  <h3>A passionate backend developer & cloud engineer from India.</h3>
 </div>
+ 
+ <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
 
-<div>
+<div align="left">
   <samp>
-  <img align="right" width="290rem" height="auto" src="./resources/img/geek.gif"/>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
+    
 - 🌱 I’m currently learning **To be Extroverted**
 
 - 👯 Looking out to collaborate on <strong>System Designing</strong>
@@ -19,6 +23,9 @@
 - 💬 Ask me about **Current Affairs & Philosophy 😆**
 
 - ⚡ Fun fact: **It’s all 0’s and 1’s**
+    
+<p>&nbsp;</p>
+    
   </samp>
 </div>
 
@@ -28,7 +35,7 @@
 <div>
   <div align="center">
     <h1>Knowledge Base</h1>
-    <img width="440rem" height="auto" src="./resources/img/code-dev2.gif"/>
+    <img width="440" height="auto" src="./resources/img/code-dev2.gif"/>
   </div>
 
   <div align="center">
