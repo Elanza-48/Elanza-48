@@ -35,7 +35,7 @@
 <div>
   <div align="center">
     <h1>Knowledge Base</h1>
-    <img width="320" height="auto" src=".resources/img/coding-dawn.gif"/>
+    <img width="320" height="auto" src="./resources/img/coding-dawn.gif"/>
   </div>
 
   <div align="center">
