@@ -35,16 +35,16 @@
 <div>
   <div align="center">
     <h1>Knowledge Base</h1>
-    <img width="320" height="auto" src="./resources/img/coding-dawn.gif"/>
+    <img width="350" height="auto" src="./resources/img/coding-dawn.gif"/>
   </div>
 
   <div align="center">
     <h3>Languages</h3>
-    <a href="https://www.python.org/" target="_blank"> 
+    <a href="https://www.python.org/" target="_blank">
       <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"
         alt="python"/>
     </a>
-    <a href="https://www.java.com" target="_blank"> 
+    <a href="https://www.java.com" target="_blank">
       <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
         alt="java"/> 
     </a>
@@ -52,6 +52,18 @@
       <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
         alt="javascript"/> 
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> 
+      <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+        alt="typescript"/>
+    </a>
+    <a href="https://go.dev/" target="_blank"> 
+      <img src="https://img.shields.io/badge/golang-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+        alt="golang"/>
+    </a>
+  </div>
+
+  <div align="center">
+    <h3>Frontend</h3>
     <a href="https://www.w3.org/html/" target="_blank"> 
       <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
         alt="html5"/> 
@@ -60,30 +72,21 @@
       <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
         alt="css3"/>
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-      <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-        alt="typescript"/>
+    <a href="https://jquery.com/" target="_blank">
+      <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
     </a>
-  </div>
-
-  <div align="center">
-    <h3>Frontend</h3>
-    <a href="https://getbootstrap.com" target="_blank">
-      <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-        alt="bootstrap"/>
+    <a href="https://webpack.js.org/" target="_blank">
+      <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white"
+        alt="webpack"/>
     </a>
     <a href="https://babeljs.io/" target="_blank">
       <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
     </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-      <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-        alt="react"/> 
+     <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://img.shields.io/badge/tailwind-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind-css"/> 
     </a>
-    <a href="https://redux.js.org" target="_blank"> 
-      <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-    </a> 
-    <a href="https://jquery.com/" target="_blank">
-      <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
+     <a href="https://gohugo.io/" target="_blank">
+      <img src="https://img.shields.io/badge/hugo-FF4088.svg?style=for-the-badge&logo=hugo&logoColor=black" alt="hugo"/> 
     </a>
   </div>
 
@@ -97,7 +100,7 @@
       <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
     </a>
     <a href="https://spring.io/" target="_blank"> 
-      <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
+      <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
     </a>
     <a href="https://www.docker.com/" target="_blank">
       <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
@@ -130,14 +133,14 @@
       <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="mongodb"/> 
     </a>
-    <a href="https://www.cockroachlabs.com/" target="_blank"> 
-      <img src="https://img.shields.io/badge/Cockroach%20DB-6933FF.svg?style=for-the-badge&logo=cockroachlabs&logoColor=white"
-        alt="cockroachdb"/> 
+    <a href="https://www.couchbase.com/"_blank"> 
+      <img src="https://img.shields.io/badge/couch%20base-EA2328.svg?style=for-the-badge&logo=couchbase&logoColor=white"
+        alt="couch base"/> 
     </a>
   </div>
 
   <div align="center">
-    <h3>Cloud & Hosting</h3>
+    <h3>Cloud Service</h3>
     <a href="https://aws.amazon.com/" target="_blank">
       <img  src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/> 
     </a>
@@ -150,22 +153,15 @@
     <a href="https://heroku.com" target="_blank"> 
       <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
         alt="heroku"/> 
-    </a> 
+    </a>
+    <a href="https://www.digitalocean.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/digital%20ocean-0080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white"
+        alt="digital ocean" /> 
+    </a>
   </div>
 
   <div align="center">
-    <h3>Testing</h3>
-    <a href="https://jestjs.io/" target="_blank"> 
-      <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white"
-        alt="jestjs" /> 
-    </a> 
-    <a href="https://junit.org/junit5/" target="_blank"> 
-      <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
-    </a> 
-  </div>
-
-  <div align="center">
-    <h3>Version Control & CI/CD</h3>
+    <h3>Source Control & CI/CD</h3>
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
         alt="git"/>
@@ -180,13 +176,19 @@
     <a href="https://www.jenkins.io" target="_blank"> 
       <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
     </a>
-    <a href="https://circleci.com/" target="_blank"> 
-      <img src="https://img.shields.io/badge/circle%20ci-343434.svg?style=for-the-badge&logo=circleci&logoColor=white" alt="circleCI"/> 
+    <a href="https://www.ansible.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/> 
+    </a>
+    <a href="https://www.vagrantup.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/vagrant-1868F2.svg?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant"/> 
+    </a>
+    <a href="https://www.terraform.io/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
     </a>
   </div>
 
   <div align="center">
-    <h3>Preferred IDEs, Tools & Platform</h3>
+    <h3>IDEs, Tools & Platform</h3>
     <a href="https://eclipse.org" target="_blank">
       <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
     </a>
@@ -205,6 +207,9 @@
     <a href="https://ubuntu.com/" target="_blank"> 
       <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
     </a>
+    <a href="https://www.qemu.org/" target="_blank"> 
+      <img src="https://img.shields.io/badge/qemu%20kvm-FF6600.svg?style=for-the-badge&logo=qemu&logoColor=white" alt="qemu kvm"/>
+    </a>                                                                                                                     
   </div>
 </div>
 </details>
@@ -212,22 +217,14 @@
 <div align="center">
   <h3>Connect with me</h3>
   <div>
+     <a  href="https://linkedin.com/in/elanza48" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
     <a  href="https://dev.to/elanza48" target="_blank">
       <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="elanza48"/>
     </a>
     <a href="https://medium.com/@elanza48" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="elanza48"/>
-    </a>
-  </div>
-  <div>
-    <a  href="https://linkedin.com/in/elanza48" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="elanza48"/>
-    </a>
-    <a href="https://twitter.com/elanza48" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="elanza48"/>
-    </a>
-    <a href="https://dribbble.com/elanza48" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="elanza48"/>
     </a>
   </div>
   <div>
@@ -237,6 +234,9 @@
     <a href="https://www.hackerrank.com/elanza48" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="elanza48"/>
     </a>
+    <a href="https://leetcode.com/elanza48/" target="_blank">
+      <img src="https://img.shields.io/badge/leetcode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
+    </a>                                                                                                                             
   </div>
   <div>
     <h3>Reach me</h3>
